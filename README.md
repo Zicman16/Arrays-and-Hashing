@@ -1,6 +1,6 @@
 Contained within is the explanation of the problem, my thought process on solving the problem, and my final solution.
 
-   **Contains Duplicate**
+     Contains Duplicate
 
 Given an integer array nums, return true if any value appears at least twice in the array, and return false if every element is distinct.
 
@@ -51,7 +51,7 @@ Explanation: A set called Record is used to as a set to store each element as th
 
 
 
-    **Valid Anagram**
+      Valid Anagram
 Given two strings s and t, return true if t is an 
 anagram of s, and false otherwise.
 
@@ -108,8 +108,7 @@ Explanation: First, we take the first string and find the frequencies of each ch
 
 
 
-    **Top K Frequent Elements**
-
+      Top K Frequent Elements
 
 Given an integer array nums and an integer k, return the k most frequent elements. You may return the answer in any order.
 
